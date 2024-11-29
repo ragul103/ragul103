@@ -23,8 +23,8 @@
 
 📫 Reach me at **ragulrbtechit@gmail.com** or explore my projects on **[GitHub](https://github.com/ragul103)**.
 
-📄 **[View My Resume](https://github.com/ragul103/ragul103/blob/main/Data.pdf)** – Explore my qualifications, work experience, and projects!
-📄 **[View My Java Developer Resume](https://github.com/ragul103/ragul103/blob/main/java%20Resume.pdf)** – Explore my qualifications, work experience, and projects!
+📄 **[View My DATA ANALYTICS Resume](https://github.com/ragul103/ragul103/blob/main/Data.pdf)** – Explore my qualifications, work experience, and projects!
+📄 **[View My JAVA DEVELOPER Resume](https://github.com/ragul103/ragul103/blob/main/java%20Resume.pdf)** – Explore my qualifications, work experience, and projects!
 
 ---
 
@@ -53,14 +53,6 @@
   - Real-time emotion recognition using video input
   - Accurate facial emotion classification with a fine-tuned **CNN model**
   - Integrated music recommendation system based on detected emotions.
-
-### **Real-Time Bus Tracking System** 🚌
-- **Description**: Created a real-time bus tracking system using **Google Maps API**. The system allows users to track buses in real-time, providing accurate arrival times and routes.
-- **Technologies Used**: **Python**, **JavaScript**, **HTML**, **Google Maps API**.
-- **Key Features**:
-  - Real-time GPS tracking of buses
-  - Integration with Google Maps for route visualization
-  - User-friendly interface for viewing live bus locations.
 
 ---
 
