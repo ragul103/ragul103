@@ -23,7 +23,7 @@
 
 📫 Reach me at **ragulrbtechit@gmail.com** or explore my projects on **[GitHub](https://github.com/ragul103)**.
 
-📄 **[View My DATA ANALYTICS Resume](https://github.com/ragul103/ragul103/blob/main/Data.pdf)** – Explore my qualifications, work experience, and projects!
+📄 **[View My DATA ANALYTICS Resume](https://github.com/ragul103/ragul103/blob/main/Analyst.pdf)** – Explore my qualifications, work experience, and projects!
 📄 **[View My JAVA DEVELOPER Resume](https://github.com/ragul103/ragul103/blob/main/java%20Resume.pdf)** – Explore my qualifications, work experience, and projects!
 
 ---
