@@ -109,7 +109,7 @@ I’m a recent B.Tech IT graduate with hands-on experience in data analytics, da
 - **Email**:               [ragulrbtechit@gmail.com](mailto:ragulrbtechit@gmail.com)  
 - **LinkedIn**:            [linkedin.com/in/rragul](https://linkedin.com/in/rragul)  
 - **GitHub**:              [github.com/ragul103](https://github.com/ragul103)  
-- **Resume**: [View PDF]((https://github.com/ragul103/ragul103/blob/main/Ragul_R_Data_Analyst.pdf)
+- **Resume**: [View PDF](https://github.com/ragul103/ragul103/blob/main/Ragul_R_Data_Analyst.pdf)
 ---
 
 ## 🤝 Open to Collaborate On
