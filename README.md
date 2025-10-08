@@ -1,7 +1,7 @@
 <h1 align="center">💫 R. Ragul – Data Analyst | AI Engineer | Machine Learning Engineer | Data Scientist (Fresher)</h1>
 
 <p align="center">
-  🎓 B.Tech in Information Technology – IFET College of Engineering (CGPA: 7.89)<br>
+  🎓 B.Tech in Information Technology – IFET College of Engineering (CGPA: 8.11)<br>
   💻 Passionate about Data Analytics, Engineering, and Smart Automation<br>
   🌍 Based in Tamil Nadu, India | 📧 ragulrbtechit@gmail.com
 </p>
