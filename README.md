@@ -47,6 +47,10 @@ I specialize in turning messy datasets into clear, insightful dashboards and rep
 🚨 YOLOv11 + LSTM-based surveillance system with real-time alert automation.  
 📘 IEEE Published
 
+📌 **[Customer Support Performance Analysis using Python & Tableau](https://github.com/ragul103/Customer-Support-Performance-Analysis-using-Python-Tableau.git)** 
+
+🛒 Python + Tableau analysis of customer behavior & Ticket trends
+
 📌 **Crime Analytics Dashboard** *(Coming Soon)*  
 📍 Interactive Tableau dashboard to show regional crime trends
 
