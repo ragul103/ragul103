@@ -51,13 +51,13 @@ I specialize in turning messy datasets into clear, insightful dashboards and rep
 
 🛒 Python + Tableau analysis of customer behavior & Ticket trends
 
-📌 **Crime Analytics Dashboard** *(Coming Soon)*  
-📍 Interactive Tableau dashboard to show regional crime trends
+📌 **[Crime Analytics Dashboard](https://github.com/ragul103/Crime_Analysis.git)**  
+📍 Interactive Python libraries to show regional crime trends
 
-📌 **E-Commerce Analytics** *(Coming Soon)*  
-🛒 SQL + Excel + Tableau analysis of customer behavior & product trends
+📌 **[E-Commerce Analytics](https://github.com/ragul103/E-Commerce_Analysics.git)**  
+🛒 Python + Python Libraries  analysis of customer behavior & product trends
 
-📌 **YouTube Channel Analyzer** *(Coming Soon)*  
+📌 **[YouTube Channel Analyzer](https://github.com/ragul103/subscribed_youtube_Analysts.git)**  
 📺 Personal content analytics through API data extraction
 
 📌 **Smart Home IoT Simulation** *(Coming Soon)*  
