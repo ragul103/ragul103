@@ -53,6 +53,9 @@ I enjoy combining **Python, SQL, and Tableau** to analyze data, solve real probl
 📌 **[Customer Support Analysis (Python + Tableau)](https://github.com/ragul103/Customer-Support-Performance-Analysis-using-Python-Tableau.git)**  
 📊 Cleaned and visualized customer support data with Tableau dashboards.  
 
+📌 **[Netflix Data Analysis using SQL & Python](https://github.com/ragul103/Netflix-Data-Analysis-using-SQL-Python.git)**  
+🧠 *Python | Sql | JupyterNotebook*
+
 📌 **[Crime Analytics Dashboard](https://github.com/ragul103/Crime_Analysis.git)**  
 📍 Visualized regional crime trends using Python (Matplotlib, Seaborn).  
 
