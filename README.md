@@ -65,7 +65,7 @@ I enjoy combining **Python, SQL, and Tableau** to analyze data, solve real probl
 📌 **[YouTube Channel Analyzer](https://github.com/ragul103/subscribed_youtube_Analysts.git)**  
 📺 Extracted and visualized channel analytics data using YouTube API.  
 
-📌 **Smart Home IoT Simulation (Coming Soon)**  
+📌 **[Smart Home IoT Simulation](https://github.com/ragul103/Smart-Home-Network-Simulation-using-Cisco-Packet-Tracer.git)**  
 🏠 Simulated IoT-based automation logic in Cisco Packet Tracer.
 
 ---
