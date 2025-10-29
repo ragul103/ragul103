@@ -70,6 +70,12 @@ I enjoy combining **Python, SQL, and Tableau** to analyze data, solve real probl
 
 ---
 
+## 📊 Tableau Portfolio
+
+Explore my interactive dashboards on **Tableau Public** 👇  
+🎨 [https://public.tableau.com/app/profile/ragul.r7770/vizzes](https://public.tableau.com/app/profile/ragul.r7770/vizzes)
+
+---
 ## 💼 Internship Experience
 
 | Organization | Role | Duration |
