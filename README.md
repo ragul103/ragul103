@@ -4,7 +4,7 @@
 <p align="center">
   🎓 <b>B.Tech in Information Technology</b> – IFET College of Engineering (CGPA: 8.11)<br>
   💻 Passionate about Data Analytics, Machine Learning & Smart Automation<br>
-  🌍 Tamil Nadu, India | 📧 <a href="mailto:ragulrbtechit@gmail.com">ragulrbtechit@gmail.com</a>
+  🌍 Tamil Nadu, India | 📧 <a href="mailto:ragulrbtechit@gmail.com">ragulrbtechit@gmail.com</a> 👨🏼‍💻<a href="https://www.datascienceportfol.io/ragulr">Profile</a>
 </p>
 
 ---
