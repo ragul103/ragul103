@@ -42,6 +42,16 @@ I enjoy combining **Python, SQL, and Tableau** to analyze data, solve real probl
 
 ## 🚀 Featured Projects
 
+📌 **[Heart Failure Prediction – ML Web App](https://github.com/ragul103/heart-failure-prediction)**  
+❤️ Built an end-to-end machine learning web application to predict heart failure risk.  
+🚀 Trained a Random Forest model and deployed it using Flask for real-time prediction.  
+🧠 *Python | Machine Learning | Random Forest | Flask | Model Deployment*
+
+📌 **[Google Ads Performance Analysis (Python + Tableau)](https://github.com/ragul103/google-ads-analysis)**  
+📊 Analyzed Google Ads campaign data to evaluate ROI, conversions, and ad spend.  
+📈 Built interactive Tableau dashboards to track KPIs like CTR, CPC, CPA, and Sales.  
+🧠 *Python | Pandas | EDA | Tableau | Marketing Analytics*
+
 📌 **[Emotion Detection System](https://github.com/ragul103/Emotion_Detection.git)**  
 🎧 Detects facial emotions and recommends songs accordingly.  
 🧠 *Python | TensorFlow | CNN | OpenCV*
